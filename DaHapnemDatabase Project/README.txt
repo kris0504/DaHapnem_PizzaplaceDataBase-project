@@ -1,0 +1,1 @@
+This is a MS SQL project representing a sample database of the pizzeria DaHapnem.
